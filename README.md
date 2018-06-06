@@ -6,5 +6,5 @@ This is a project for the subject named KK04803 Information Retrieval. Read `Usa
 
 ## Usage
 
-1. Run the `main.exe`
+1. Run the `main.py`
 2. Follow the instruction
